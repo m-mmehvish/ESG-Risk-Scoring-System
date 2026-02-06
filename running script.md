@@ -1,0 +1,1 @@
+streamlit run esg_dashboard.py
